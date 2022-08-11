@@ -7,9 +7,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
 theme: minima
 
 minima:
-	date_format: "%d %-b %-Y"
+  date_format: "%d %-b %-Y"
 
 plugins:
-	- jekyll-sitemap
-	- jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
