@@ -1,10 +1,12 @@
 ---
-#front matter
 layout: page
 title: About
 ---
 
-I am: a father; a husband; a son; an independent tutor, teacher, developer.
+I am: 
 
-In that order. 
+- A father, a son, a husband;
+- An independent tutor, teacher, developer.
+
+More or less in that order. 
 
