@@ -1,6 +1,15 @@
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+title: buitri84
+author:
+  name: Tri Bui
+description: > # this means to ignore newlines until "show_excerpts:"
+  Tri Bui (buitri84) home on the Internet...
 
 theme: minima
+
+minima:
+	date_format: "%d %-b %-Y"
+
+plugins:
+	- jekyll-sitemap
+	- jekyll-seo-tag
+
