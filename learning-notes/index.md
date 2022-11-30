@@ -1,5 +1,6 @@
 ---
-layout: learning-notes
+layout: home 
+title: Learning notes
 category: study 
 ---
 
