@@ -1,14 +1,12 @@
 ---
-layout: post
-title: Learning notes
-category: study 
+layout: default 
 ---
 
 <h1>Collection of study notes and practice questions</h1>
 
 <ul>
   {% for post in site.posts %}
-    {% if post.category == "study" %}
+    {% if post.category=="study" %}
       <li>
         <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         {{ post.excerpt }}
