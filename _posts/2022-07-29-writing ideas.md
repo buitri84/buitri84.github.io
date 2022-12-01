@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Tri Bui
+category: personal
 ---
 Ideas for blog posts:
 
