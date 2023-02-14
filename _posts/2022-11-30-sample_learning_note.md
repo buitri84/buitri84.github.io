@@ -1,13 +1,9 @@
 ---
 layout: post
-title: Sample learning note
+title: Placeholder - sample learning note
 author: Tri Bui
 category: study
 ---
-Ideas for blog posts:
+Ideas for posts:
 
-- Writings for Ớt: write for her to read in the future.
-
-1. Write about mindset, placebo effect, how mindset can even affect our physiology. Furthermore, the connection between mindset and our perception of reality (objectivity).
-
-- GMAT and GRE question of the day.
+- Write about mindset, placebo effect, how mindset can even affect our physiology. Furthermore, the connection between mindset and our perception of reality (objectivity).

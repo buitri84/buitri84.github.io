@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Sample GMAT note
+title: Placeholder - sample GMAT note
 author: Tri Bui
-tags: gmat
+tags: [gmat, teaching]
 ---
-This is a first sample GMAT note.
+This is a first sample GMAT note:
+
 - Study plan
 - Resources
 
